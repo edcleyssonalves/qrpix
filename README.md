@@ -1,6 +1,13 @@
 # qrpix
 
-Este pacote permite gerar QR Codes de pagamento Pix, com informações personalizáveis como nome do recebedor, chave Pix, valor da transação e cidade.
+`qrpix` é uma biblioteca para gerar códigos QR de pagamentos PIX de maneira simples e eficiente. A biblioteca permite a criação de payloads PIX válidos e a geração de QR Codes para serem usados em pagamentos.
+
+## Instalação
+
+Para instalar o pacote, use o `pip`:
+
+```bash
+pip install qrpix==1.0
 
 ## Como usar
 

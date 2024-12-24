@@ -1,3 +1,7 @@
 venv
 __pycache__
 test.py
+.pypirc
+qrpix.egg-info
+build
+dist
